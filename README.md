@@ -3,7 +3,7 @@
 > Systematically remove all Lovable traces, branding, and hidden marks from React web applications
 
 [![GitHub](https://img.shields.io/badge/GitHub-DhananjayThomble-blue?logo=github)](https://github.com/DhananjayThomble)
-[![Kiro Power](https://img.shields.io/badge/Kiro-Power-purple)](https://kiro.ai)
+[![Kiro Power](https://img.shields.io/badge/Kiro-Power-purple)](https://kiro.dev)
 
 ## 🎯 What This Does
 
