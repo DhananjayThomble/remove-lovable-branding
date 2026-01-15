@@ -23,7 +23,7 @@ This Kiro Power provides a complete, step-by-step workflow for removing all trac
 1. Open Kiro IDE
 2. Open "Powers" tab in sidebar
 3. Click on "Add Custom Power" then "Import power from GitHub" 
-4. Enter the following URL: `https://github.com/DhananjayThomble/remove-lovable-branding.git`
+4. Enter the following URL: `https://github.com/DhananjayThomble/remove-lovable-branding/tree/main/kiro-powers`
 5. Press "Enter" to install the power
 
 
