@@ -1,10 +1,15 @@
 ---
-name: "remove-lovable-branding"
-displayName: "Remove Lovable Branding"
-description: "Systematically remove all Lovable traces, branding, and hidden marks from React web applications. Includes search patterns, checklists, and verification steps to ensure complete removal."
-keywords: ["lovable", "branding", "debranding", "cleanup", "remove marks"]
-author: "Dhananjay Thomble"
-repository: "https://github.com/DhananjayThomble/remove-lovable-branding"
+name: remove-lovable-branding
+displayName: Remove Lovable Branding
+description: Systematically remove all Lovable traces, branding, and hidden marks from React web applications. Includes search patterns, checklists, and verification steps to ensure complete removal.
+keywords:
+  - lovable
+  - branding
+  - debranding
+  - cleanup
+  - remove marks
+author: Dhananjay Thomble
+repository: https://github.com/DhananjayThomble/remove-lovable-branding
 ---
 
 # Remove Lovable Branding
